@@ -47,7 +47,7 @@ let str = "hello world";
 	# a.toString() ==> number to string
 
 
-#functions
+# functions
 
 	# normal function 
 	function add(a,b){
@@ -148,6 +148,7 @@ let str = "hello world";
 		let lName;
 
 		constructor(firstName,lastName)
+            {   
 			this.fName= firstName;
 			this.lName=lastName;
 
